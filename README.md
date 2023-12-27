@@ -2,6 +2,33 @@
 
 This is a Flutter front-end notes app that allows users to create, modify, and delete notes. It uses Firebase for authentication and MongoDB as the database, with a Node.js backend. This README will guide you through the setup and running of the application.
 
+## Demo
+
+You can try out the live demo of Notes App at: [https://example.com/notes-app](https://drive.google.com/file/d/1lMJQNWZ6GbZQchemErBVP0tSc84b03JN/view?usp=sharing)
+
+
+## Screenshots
+<table>
+  <tr>
+    <td>
+      <img src="https://drive.google.com/file/d/1lUVydcCfEXseTj-1iwyoYFamsod5lGE0/view?usp=sharing" alt="Notes App Logo" width="160" height="320" />
+    </td>
+    <td>
+      <img src="https://drive.google.com/file/d/1lb65FfFfB46V_lPvz4mycDIin2qZMXbB/view?usp=sharing" alt="Notes App Logo" width="160" height="320" />
+    </td>
+    <td>
+      <img src="https://drive.google.com/file/d/1lPSDpn4soDap2JyRJMS_hn16hsPABpJD/view?usp=sharing" alt="Notes App Logo" width="160" height="320" />
+    </td>
+    <td>
+      <img src="https://drive.google.com/file/d/1lMr_OlDI_JZ-y8ctdAA2nHcuYa2fA5Nv/view?usp=sharing" alt="Notes App Logo" width="160" height="320" />
+    </td>
+    <td>
+      <img src="https://drive.google.com/file/d/1lMkezyu6negKRUdDQzxrRCK3of6_2SvU/view?usp=sharing" alt="Notes App Logo" width="160" height="320" />
+    </td>
+  </tr>
+</table>
+
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
